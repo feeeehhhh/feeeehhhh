@@ -8,7 +8,7 @@
 ![Felipe GitHub
 stats](https://github-readme-stats.vercel.app/api?username=feeeehhhh&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feeeehhhh)](https://github.com/feeeehhhh/github-readme-stats)
+
 #
 ## Tecnologia que eu uso no dia a dia
 
